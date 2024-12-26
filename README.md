@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emadthomas
-- 👀 I’m interested in Fkutter 
+- 👀 I’m interested in Flutter 
 - 🌱 I’m currently learning HTML,CSS,JAVA,JAVASCRIPT,DART
 
 <!---
